@@ -1,1 +1,6 @@
 This is the bug fix in development branch
+<<<<<<< HEAD
+=======
+This is gadbad code
+This feature will gadbad everything from now.
+>>>>>>> 18d29d8c6f1695435ed88f4c4f02c7cc03536933
